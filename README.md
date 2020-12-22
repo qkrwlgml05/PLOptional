@@ -10,6 +10,7 @@
 before execute code
 --
   $ pip install click
+  
   $ pip install nltk
   
   python version 3.7
