@@ -674,6 +674,6 @@ elif __name__ == "__main__":
     main()
 else:
     print("--Input format--")
-    print("\tpython AE.py 'input text'")
+    print("\tpython RBMRCFAE.py 'input text'")
     print("\tor")
-    print("\tpython AE.py -p 'input text'")
+    print("\tpython RBMRCFAE.py -p 'input text'")
